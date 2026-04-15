@@ -44,4 +44,3 @@ sitemap-*.xml
 src/lib/runtime.ts
 public/manifest.json
 
-pnpm-lock.yaml
